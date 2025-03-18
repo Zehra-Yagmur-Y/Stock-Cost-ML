@@ -83,8 +83,6 @@ Machine Learning-Based Stock and Cost Optimization
 - Passwords are securely stored using **Bcrypt hashing**.
 - Only authorized users can access specific routes.
 
-##  Contributions
-Pull requests are welcome! If you find any issues, feel free to report them.
 
 ---
 
@@ -171,6 +169,4 @@ Pull requests are welcome! If you find any issues, feel free to report them.
 - Şifreler **Bcrypt hashleme** ile güvenli şekilde saklanır.
 - Yetkili kullanıcılar yalnızca belirli sayfalara erişebilir.
 
-##  Katkıda Bulunma
-Pull request'ler kabul edilir! Eğer bir hata bulursanız, bildirin. 😊
 
